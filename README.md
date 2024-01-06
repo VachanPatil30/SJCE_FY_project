@@ -14,6 +14,18 @@ To start the server and view the webpage.
 With the rapid development of modern technology and the popularization of social media, a large amount of visual information has followed. Images and videos have become important carriers of a vast network of information. However, it’s difficult for us to classify and recognize the gathered information directly. Hence, the use of the computer to classify and recognize data or objects in these images and videos has gained significant prominence
 ## Dataset
 The COCO dataset was used in the training of the model for object detection and recognition in videos and images. The COCO dataset contains images in 80 different categories, with a total of more than 330,000 images, including 200,000 labeled images. 
+
+## Tools and TECHNOLOGY USED
+1. Platforms: Google Colab for model creation and collaboration, and Git and GitHub for version control and team collaboration.
+2. Programming Language and Frameworks:
+- Python: Used for creating the machine learning algorithm and scripts.
+- JavaScript/TypeScript: Implemented the front end of the website and some backend capabilities.
+- HTML/CSS/Bootstrap: Used for creating a responsive website interface.
+- Angular: Employed for developing the frontend of the website and integrating it with the backend.
+- Node.js: Utilized for creating the backend of the website.
+3. Python modules: Keras for working with the deep learning model, TensorFlow for working with neural network, Numpy for working with array data, OpenCV for working with images, and Matplotlib, Plotly, Pillow for creating charts and graphs.
+Operating system: The entire application along with the website and the python code machine learning model will be running on a machine with windows 10 as its operating system.
+
 ## Data Design
 
 1. Module Import:
