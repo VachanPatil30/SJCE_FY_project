@@ -29,6 +29,7 @@ The COCO dataset was used in the training of the model for object detection and 
 Operating system: The entire application along with the website and the python code machine learning model will be running on a machine with windows 10 as its operating system.
 
 ## Data Design
+![image](https://github.com/VachanPatil30/SJCE_FY_project/assets/79377852/8ea978e1-613d-47e6-9452-907ffe47db3d)
 
 1. Module Import:
 Begin by importing necessary modules like OpenCV, TensorFlow, Node JS, and React.
@@ -45,6 +46,7 @@ Train and convert a machine learning model using TensorFlow.js. This model direc
 5. Display of Detected Objects:
 Following object detection, display the identified objects with colored squares and corresponding labels in the left corner of each square.
 ## System Architecture
+![image](https://github.com/VachanPatil30/SJCE_FY_project/assets/79377852/d96817f8-95fe-4c80-ba66-d5017271a97b)
 
 1. Frontend Interaction with React:
 Utilizing React, a JavaScript library, for building user-friendly interfaces, addressing issues with partial content updates in one-page applications. React's modular structure ensures easy maintenance and flexibility, saving significant development time.
@@ -73,8 +75,18 @@ The system was implemented using a Convolutional Neural Network (CNN) and a Recu
 A web application was created to provide an abstraction of the model and algorithm. Users could upload an unidentified object in an image or video to the application. The image or video was passed through the machine learning model for the identification of different objects present in it. The model processed and highlighted different objects present in it and labeled them, based on the trained neural network and machine learning model. The image or video having classified objects in it could be downloaded from the application
 .
 ## Results
+
+   
+![image](https://github.com/VachanPatil30/SJCE_FY_project/assets/79377852/a025156d-c21d-4456-8e9c-871356c25d40)
+
+![image](https://github.com/VachanPatil30/SJCE_FY_project/assets/79377852/99b964c4-f66b-4fce-89e0-29b5fcfaaaf5)
+
+                                                          Interface testing on image and video
+
 The system was designed to be available 24x7 and deliver services as intended despite unpredictable interruptions. It was designed to be user-friendly and easy to use without compromising on the requirements. The system permits everyone with a mobile phone or a computer to access the website, thus assisting people who are hard of hearing. The revenue generated from the model could further be utilized to enhance the dataset by collecting large amounts of data on which the model is trained, thus making the model more accurate and robust.
 
 The system was able to detect and classify different objects in images and videos, identify different characteristics of the uploaded files, reduce the training time and improve the accuracy rate of classification using the concepts of deep residual networks. After the image or video was uploaded, the file was classified and labeled with objects in it.
+
+![image](https://github.com/VachanPatil30/SJCE_FY_project/assets/79377852/fa418096-bebb-4a91-ba70-f8881f726429)
 
 The project achieved significant results in terms of model performance. The loss was successfully reduced to 0.36, and a training accuracy of 0.90 was attained after running the model for 5 epochs. Subsequently, when tested with random data, the model achieved an accuracy of 88%
