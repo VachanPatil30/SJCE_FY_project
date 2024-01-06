@@ -81,7 +81,7 @@ A web application was created to provide an abstraction of the model and algorit
 
 ![image](https://github.com/VachanPatil30/SJCE_FY_project/assets/79377852/99b964c4-f66b-4fce-89e0-29b5fcfaaaf5)
 
-                                                          Interface testing on image and video
+                                              Interface testing on image and video
 
 The system was designed to be available 24x7 and deliver services as intended despite unpredictable interruptions. It was designed to be user-friendly and easy to use without compromising on the requirements. The system permits everyone with a mobile phone or a computer to access the website, thus assisting people who are hard of hearing. The revenue generated from the model could further be utilized to enhance the dataset by collecting large amounts of data on which the model is trained, thus making the model more accurate and robust.
 
