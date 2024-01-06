@@ -89,4 +89,4 @@ The system was able to detect and classify different objects in images and video
 
 ![image](https://github.com/VachanPatil30/SJCE_FY_project/assets/79377852/fa418096-bebb-4a91-ba70-f8881f726429)
 
-The project achieved significant results in terms of model performance. The loss was successfully reduced to 0.36, and a training accuracy of 0.90 was attained after running the model for 5 epochs. Subsequently, when tested with random data, the model achieved an accuracy of 88%
+The project achieved significant results in terms of model performance. The loss was successfully reduced to 0.36, and a training accuracy of 0.96 was attained after running the model for 5 epochs. Subsequently, when tested with random data, the model achieved an accuracy of 91%
